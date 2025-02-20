@@ -14,3 +14,8 @@ Hello World! My name is Vasily, I'm a junior at NYU studying Computer Science an
 * Creative writing
 * Solving linguistics problems and learning languages — I speak English, Russian and Spanish
 * Travel — I am on a mission to visit all of the world's greatest cities
+
+### Small projects for my classes :
+
+* [Soho Route Generator](https://github.com/avmvng/soho-route-generator) is a MERN stack app created by 5 students, including myself, for our Agile Development elective.
+* [Website Time Tracker](https://github.com/avmvng/websiteTimeTracker) is a small Firefox extension created by 3 students, including myself, for our Open Source Development class.
