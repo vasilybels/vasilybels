@@ -1,1 +1,1 @@
-I am a senior at the NYU Courant Institute of Mathematical Sciences studying Computer Science and Multimedia Journalism. I am passionate about applying my theoretical knowledge and skills learned in class to solve real-world problems.
+NYU Courant.
